@@ -42,7 +42,7 @@
  
   <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pintu903&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Pintu Kumar" height="255px" width="44%" />
- <img align="right" src="https://activity-graph.herokuapp.com/graph?username=pintu903&theme=gruvbox&hide_border=true&area=true" height="235px" width="52%"/>
+ <img align="right" src="https://activity-graph.herokuapp.com/graph?username=pintu903&theme=gruvbox&hide_border=true&area=true" height="235px" width="48%"/>
    <div>
     </br>
  
