@@ -27,12 +27,30 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pintu903&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pintu903&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pintu903&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️  Quote
+
+
+<h2 align="center">📊 GitHub Stats:</h2>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=pintu903&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pintu903&theme=midnight-purple&hide_border=false)<br/> -->
+ 
+ 
+ <div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=pintu903&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" alt="Pintu Kumar" height="250px" width="47%" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pintu903&theme=midnight-purple&hide_border=false" height="255px" width="47%"/>
+<div>
+ 
+  <div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pintu903&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Pintu Kumar" height="255px" width="44%" />
+ <img align="right" src="https://activity-graph.herokuapp.com/graph?username=pintu903&theme=gruvbox&hide_border=true&area=true" height="235px" width="52%"/>
+   <div>
+    </br>
+ 
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pintu903&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+
+    
+    
+<!-- ### ✍️  Quote -->
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 
