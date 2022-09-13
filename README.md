@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://s3-us-west-2.amazonaws.com/robogarden-new/Articles/upload/blogs/lg-leverage-of-coding.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PintuKumar340&label=Profile%20views&color=0e75b6&style=flat" alt="PintuKumar340" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pintu903&label=Profile%20views&color=0e75b6&style=flat" alt="pintu903" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -31,22 +31,22 @@
 
 
 <h2 align="center">📊 GitHub Stats:</h2>
-<!-- ![](https://github-readme-stats.vercel.app/api?username=PintuKumar340&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PintuKumar340&theme=midnight-purple&hide_border=false)<br/> -->
+<!-- ![](https://github-readme-stats.vercel.app/api?username=pintu903&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pintu903&theme=midnight-purple&hide_border=false)<br/> -->
  
  
  <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=PintuKumar340&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" alt="Pintu Kumar" height="250px" width="47%" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=PintuKumar340&theme=midnight-purple&hide_border=false" height="255px" width="47%"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=pintu903&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" alt="Pintu Kumar" height="250px" width="47%" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pintu903&theme=midnight-purple&hide_border=false" height="255px" width="47%"/>
 <div>
  
   <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PintuKumar340&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Pintu Kumar" height="255px" width="44%" />
- <img align="right" src="https://activity-graph.herokuapp.com/graph?username=PintuKumar340&theme=gruvbox&hide_border=true&area=true" height="235px" width="48%"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pintu903&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Pintu Kumar" height="255px" width="44%" />
+ <img align="right" src="https://activity-graph.herokuapp.com/graph?username=pintu903&theme=gruvbox&hide_border=true&area=true" height="235px" width="48%"/>
    <div>
     </br>
  
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PintuKumar340&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pintu903&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
     
     
