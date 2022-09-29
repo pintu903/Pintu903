@@ -12,7 +12,7 @@
 - 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **kushwahapintu903@gmail.com**
-
+- 👨‍💻 All of my projects are available at [github](https://github.com/pintu903?tab=repositories)
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
