@@ -7,12 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java**, **Hibernate**, **SpringBoot**
 
 - 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **kushwahapintu903@gmail.com**
 - 👨‍💻 All of my projects are available at [github](https://github.com/pintu903?tab=repositories)
+
+- ✔ To know more about me , **visit [PintuKumar](https://pintu903.github.io/)**
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
