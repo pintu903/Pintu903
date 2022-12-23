@@ -42,10 +42,5 @@
  <p align="center">
   <img align=""  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pintu903&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Pintu Kumar" height="270px" width="70%"  />
  </p>
- 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pintu903&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
-    
-<!-- ### ✍️  Quote -->
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
