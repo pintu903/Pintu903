@@ -32,15 +32,15 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pintu903&theme=midnight-purple&hide_border=false)<br/> -->
  
 <p align="center">
-  <img align="center" margin="auto" src="https://github-readme-stats.vercel.app/api?username=pintu903&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" alt="Pintu Kumar" height="270px" width="80%" />
+  <img align="center" margin="auto" src="https://github-readme-stats.vercel.app/api?username=pintu903&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" alt="Pintu Kumar" height="270px" width="70%" />
  </p>
  
  <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pintu903&theme=midnight-purple&hide_border=false" height="270px" width="80%" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pintu903&theme=midnight-purple&hide_border=false" height="270px" width="70%" />
   </p>
 
  <p align="center">
-  <img align=""  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pintu903&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Pintu Kumar" height="270px" width="80%"  />
+  <img align=""  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pintu903&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Pintu Kumar" height="270px" width="70%"  />
  </p>
  
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pintu903&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
