@@ -45,5 +45,3 @@
  <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pintu903&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Pintu Kumar" height="270px" width="70%"  />
   </div>
-
- <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
