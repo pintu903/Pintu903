@@ -22,25 +22,24 @@
 <a href="https://linkedin.com/in/pintu-kumar-689b6a242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pintu-kumar-689b6a242" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pintu_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kushwahapintu903" height="30" width="40" /></a>
 <a href="https://leetcode.com/Kumar_Pintu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kumarp903" height="30" width="40" /></a>
-<h3>Programming Skills with me:</h3>
-</p>
+ </p>
  
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<h3>Programming Skills with me:</h3>
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 <h2 align="center">📊 GitHub Stats:</h2>
-<!-- ![](https://github-readme-stats.vercel.app/api?username=pintu903&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pintu903&theme=midnight-purple&hide_border=false)<br/> -->
  
  <div align="center">
-  <img align="center" margin="auto" src="https://github-readme-stats.vercel.app/api?username=pintu903&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" alt="Pintu Kumar" height="270px" width="70%" />
+  <img align="center" margin="auto" src="https://github-readme-stats.vercel.app/api?username=pintu903&theme=radical&hide_border=true&include_all_commits=false&count_private=false" alt="Pintu Kumar" height="270px" width="70%" />
    </div>
  
  <div align="center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=pintu903&theme=midnight-purple&hide_border=false" height="370px" width="70%" />
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=pintu903&theme=radical&hide_border=true" height="370px" width="68%" />
   </div>
 
  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pintu903&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Pintu Kumar" height="270px" width="70%"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pintu903&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Pintu Kumar" height="270px" width="70%"  />
   </div>
 
  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
