@@ -1,6 +1,6 @@
 <h1 align="center">Hi 🖐, I'm Pintu</h1>
-<h3 align="center">An aspiring Backend developer with a specialization in Java with a passion for learning with an endless supply of optimism and curiosity.</h3>
-
+<h3 align="center">An aspiring Backend developer with a specialization in Java</h3>
+<!--  with a passion for learning with an endless supply of optimism and curiosity -->
 <img align="right" alt="Coding" width="400" src="https://s3-us-west-2.amazonaws.com/robogarden-new/Articles/upload/blogs/lg-leverage-of-coding.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pintu903&label=Profile%20views&color=0e75b6&style=flat" alt="pintu903" /> </p>
