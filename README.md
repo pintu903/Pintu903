@@ -32,13 +32,13 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 <h2 align="center">📊 GitHub Stats:</h2>
- 
+
  <div align="center">
-  <img align="center" margin="auto" src="https://github-readme-stats.vercel.app/api?username=pintu903&theme=radical&hide_border=true&include_all_commits=false&count_private=false" alt="Pintu Kumar" height="270px" width="70%" />
+  <img align="center" margin="auto" src="https://github-readme-stats.vercel.app/api?username=pintu903&theme=radical" alt="Pintu Kumar" height="270px" width="70%" />
    </div>
- 
+
  <div align="center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=pintu903&theme=radical&hide_border=true" height="340px" width="68%" />
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=pintu903&theme=radical" height="340px" width="68%" />
   </div>
 
  <div align="center">
