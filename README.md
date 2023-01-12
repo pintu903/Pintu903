@@ -25,6 +25,14 @@
   
  [![Linkedin Badge](https://img.shields.io/badge/-Pintu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pintukumar903//)](https://www.linkedin.com/in/pintukumar903/)  [![Gmail Badge](https://img.shields.io/badge/-kushwahapintu903@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kushwahapintu903@gmail.com)](mailto:kushwahapintu903@gmail.com)
  </p>
+ 
+ <a href="https://linkedin.com/in/pintukumar903" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://github.com/pintu903" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
 
  
 <h3>Programming Skills with me:</h3>
