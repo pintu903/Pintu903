@@ -3,7 +3,6 @@
 <!--  with a passion for learning with an endless supply of optimism and curiosity -->
 <img align="right" alt="Coding" width="400" src="https://s3-us-west-2.amazonaws.com/robogarden-new/Articles/upload/blogs/lg-leverage-of-coding.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pintu903&label=Profile%20views&color=0e75b6&style=flat" alt="pintu903" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
