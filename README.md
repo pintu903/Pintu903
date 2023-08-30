@@ -45,9 +45,9 @@
    </div>
 
  <div align="center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=pintu903&theme=radical" height="340px" width="68%" />
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=pintu903&theme=radical" height="270px" width="70%" />
   </div>
 
  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pintu903&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Pintu Kumar" height="270px" width="65%"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pintu903&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Pintu Kumar" height="270px" width="70%"  />
   </div>
