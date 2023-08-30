@@ -49,5 +49,5 @@
   </div>
 
  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pintu903&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Pintu Kumar" height="250px" width="70%"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pintu903&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Pintu Kumar" height="270px" width="65%"  />
   </div>
