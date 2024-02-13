@@ -13,7 +13,6 @@
 - 📫 How to reach me **kushwahapintu903@gmail.com**
 - 👨‍💻 All of my projects are available at [github](https://github.com/pintu903?tab=repositories)
 
-- ✔ To know more about me , **visit [PintuKumar](https://pintu903.github.io/)**
 - ⚡ Fun fact **I like to watch funny video.**
 
 <h3 align="left">Connect with me:</h3>
